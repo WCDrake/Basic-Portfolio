@@ -69,3 +69,27 @@ p {
 .pictures{
 	clear: both;
 }
+
+/* Contact*/
+
+form {
+	padding: 15px;
+
+}
+
+.submit {
+	background-color:#4aaaa5 ;
+}
+
+.message{
+	height: 100px;
+	width: 100%;
+}
+
+.name {
+	width: 100%;
+}
+
+.email{
+	width: 100%;
+}
