@@ -1,39 +1,7 @@
-.header {
-	float: left;
-	color: white;
-	background-color:#4aaaa5;
-	padding: 20px;
-}
-
-#subheader{
-	color: #4aaaa5;
-}
-
-
-li  {
-    float: right;
-    display: block;
-    padding: 20px;
-}
-
-.main {
-	clear: both;
-	background-color: white;
-}
-
-#picture{
-	float: left;
-}
-
-.copyright{
-	clear: both;
-	text-align: center;
-	background-color: #666666;
-	padding-top: 7px;
-}
-
-.pictures{
-	clear: both;
+.mainbackground{
+	background-color:#dddddd;
+	width: 100%;
+	padding-bottom: 40px;
 }
 
 .bigbox {
@@ -42,7 +10,62 @@ li  {
 	margin-right: auto;
 }
 
-#mainbackground{
-	background-color:#dddddd;
-	width: 100%;
+.header {
+	float: left;
+	color: white;
+	background-color:#4aaaa5;
+	padding: 20px;
+}
+
+li  {
+    float: right;
+    display: block;
+    padding: 20px;
+}
+
+#subheader{
+	color: #4aaaa5;
+	 border-bottom: 5px solid #dddddd;
+	 margin: 15px;
+	
+}
+
+.main {
+	clear: both;
+	background-color: white;
+}
+
+
+
+#picture{
+	float: left;
+	margin: 15px;
+}
+
+p {
+	margin: 15px;
+}
+
+.tealbottom{
+	background-color:#4aaaa5;
+	color: #4aaaa5;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.copyright{
+	clear: both;
+	text-align: center;
+	background-color: #666666;
+	padding-top: 7px;
+	
+}
+
+
+
+/* Portfolio */
+
+
+
+.pictures{
+	clear: both;
 }
