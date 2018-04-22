@@ -1,0 +1,48 @@
+.header {
+	float: left;
+	color: white;
+	background-color:#4aaaa5;
+	padding: 20px;
+}
+
+#subheader{
+	color: #4aaaa5;
+}
+
+
+li  {
+    float: right;
+    display: block;
+    padding: 20px;
+}
+
+.main {
+	clear: both;
+	background-color: white;
+}
+
+#picture{
+	float: left;
+}
+
+.copyright{
+	clear: both;
+	text-align: center;
+	background-color: #666666;
+	padding-top: 7px;
+}
+
+.pictures{
+	clear: both;
+}
+
+.bigbox {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#mainbackground{
+	background-color:#dddddd;
+	width: 100%;
+}
